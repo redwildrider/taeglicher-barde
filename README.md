@@ -9,10 +9,10 @@ https://github.com/user-attachments/assets/d854fbd9-4dfe-44f8-885b-907077aebe60
 <head>
     <script type="text/javascript">
         function changeToCursor1(){
-            document.body.style.cursor="url('staff.cur'),url('staff.cur'), default";
+            document.body.style.cursor="url('staff1.cur'),url('staff1.cur'), default";
         }
         function changeToCursor2(){
-            document.body.style.cursor="url('staff.cur'),url('staff.cur'), default";
+            document.body.style.cursor="url('staff2.cur'),url('staff2.cur'), default";
         }
     </script>
 </head>
